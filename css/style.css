@@ -2269,7 +2269,7 @@ header.sticky nav.header-light-transparent .logo .logo-light, header.sticky nav.
 .nav-top-scroll {position: absolute; top: 0; z-index: 5;}
 header.sticky nav.nav-top-scroll {background-color: inherit;}
 header a.logo {display: inline-block; vertical-align: middle; text-align: center;}
-header a.logo img {max-height:26px;}
+header a.logo img {max-height:86px;}
 header .left-nav .sidebar-part1 a.logo img {max-height:inherit;}
 .logo-holder img {max-height: 26px;}
 
@@ -2323,7 +2323,7 @@ header nav.navbar {border-radius: 0; padding: 0; }
 header nav.navbar-default, nav.navbar.bootsnav {border-bottom: 0;}
 header nav {width: 100%; top: 0px; z-index: 99; margin-bottom: 0; display: table; }
 header nav .nav-header-container {display: table-cell; vertical-align: middle; position: relative;}
-header nav .navbar-nav > li > a {color: #232323; font-size: 12px; font-weight: 700; margin:0 20px; padding: 5px 0px 5px; text-transform: uppercase; letter-spacing: 0.015em;}
+header nav .navbar-nav > li > a {color: #232323; font-size: 14px; font-weight: 700; margin:0 20px; padding: 5px 0px 5px; text-transform: uppercase; letter-spacing: 0.015em;}
 header nav .navbar-nav > li > a:hover, header nav .navbar-nav > li > a:focus, header nav .navbar-nav > li.active > a {background: transparent;}
 header nav .navbar-nav > li:last-child a { margin-right: 0;}
 .navbar-fixed-bottom, .navbar-fixed-top {z-index: 9999}
