@@ -56,7 +56,7 @@
                 <div class="container-fluid padding-thirteen-lr md-padding-eight-lr sm-padding-15px-lr nav-header-container">
                     <div class="row">
                         <div class="col-md-2 col-xs-5">
-                            <a href="./index.html" title="Pofo" class="logo">
+                            <a href="./index.php" title="Pofo" class="logo">
                                 <!-- <img src="./images/logo.png" data-at2x="images/logo@2x.png" class="logo-dark" alt="Pofo" />
                                 <img src="./images/logo-white.png" data-at2x="images/logo-white@2x.png" alt="Pofo" class="logo-light default" /> -->
                                 <text class="text-center text-extra-large text-white"> <b class="alt-font">AEGIS FIRE</b> </text>
@@ -78,28 +78,42 @@
                                     <!-- end menu item -->
                                      <!-- start menu item -->
                                     <li class="dropdown megamenu-fw">
-                                        <a href="./about-us.html">About Us</a><i class="fa fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
+                                        <a href="./about-us.php">About Us</a><i class="fa fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                                     
                                     </li>
                                     <!-- end menu item -->
-                                    <li class="dropdown simple-dropdown"><a href="./product.html">Products</a><i class="fa fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
+                                    <li class="dropdown simple-dropdown"><a href="#">Products</a><i class="fa fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                                         <!-- start sub menu -->
-                                        <!-- <ul class="dropdown-menu" role="menu">
-                                            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./product-1.html">Nature Collection</a>
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./product-1.php">Firestop Cast-In</a>
                                             </li>
-                                             <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./product-2.html">Abstract Collection</a>
+                                             <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./product-2.php">Firestop Sleeves and Pathways</a>
                                             </li>
-                                             <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./product-3.html">Floral Placement Collection</a>
+                                             <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./product-3.php">Firestop Cable Transit Systems</a>
                                             </li>
-                                             <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./product-4.html">Geometric Collection</a>
+                                             <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./product-4.php">Firestop Blocks and Plugs</a>
                                             </li>
-                                             <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./product-5.html">Floral Prints</a>
+                                             <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./product-5.php">Firestop Sealants and Sprays</a>
                                             </li>
-                                        </ul> -->
+                                            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./product-6.php">Firestop Collars, Wraps and Bandages</a>
+                                            </li>
+                                            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./product-7.php">Firestop Putties</a>
+                                            </li>
+                                            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./product-8.php">Firestop Foams</a>
+                                            </li>
+                                            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./product-9.php">Firestop Sheets</a>
+                                            </li>
+                                            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./product-10.php">Smoke and Acoustic Products</a>
+                                            </li>
+                                            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./product-11.php">Firestop Coating and Mortars</a>
+                                            </li>
+                                            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./product-12.php">Firestop Accessories</a>
+                                            </li>
+                                        </ul>
                                     </li>
                                     <!-- start menu item -->
                                     <li class="dropdown megamenu-fw">
-                                        <a href="./contact-us.html">Contact Us</a><i class="fa fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
+                                        <a href="#contact" class="inner-link">Contact Us</a><i class="fa fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                                     
                                     </li>
                                     <!-- end menu item -->
@@ -123,7 +137,6 @@
             </nav>
             <!-- end navigation -->  
         </header>
-        <!-- end header -->
 
         <!-- start parallax hero section -->
         <section class="wow fadeIn no-padding parallax xs-background-image-center" data-stellar-background-ratio="0.5" style="background-image:url('./image/home_cover.jpg');">
@@ -289,246 +302,174 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12 equalize text-center">
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-1.jpg" alt="" />
-                                        </figure>
+                        <a href="./product-1.php">
+                            <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
+                                <div class="feature-box feature-box-4 equalize xs-equalize-auto">
+                                    <div class="box border-none bg-white box-shadow-large">
+                                        <div class="content">
+                                            <figure>
+                                                <img src="./image/product-1.jpg" alt="" />
+                                            </figure>
+                                        </div>
                                     </div>
                                 </div>
+                                <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Cast-In</p>
                             </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Cast-In</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-2.jpg" alt="" />
-                                        </figure>
+                        </a>
+                        <a href="./product-2.php">
+                            <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
+                                <div class="feature-box feature-box-4 equalize xs-equalize-auto">
+                                    <div class="box border-none bg-white box-shadow-large">
+                                        <div class="content">
+                                            <figure>
+                                                <img src="./image/product-2.jpg" alt="" />
+                                            </figure>
+                                        </div>
                                     </div>
                                 </div>
+                                <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Sleeves and Pathways</p>
                             </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Sleeves</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-3.jpg" alt="" />
-                                        </figure>
+                        </a>
+                        <a href="./product-3.php">
+                            <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
+                                <div class="feature-box feature-box-4 equalize xs-equalize-auto">
+                                    <div class="box border-none bg-white box-shadow-large">
+                                        <div class="content">
+                                            <figure>
+                                                <img src="./image/product-3.jpg" alt="" />
+                                            </figure>
+                                        </div>
                                     </div>
                                 </div>
+                                <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Cable Transit Systems</p>
                             </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Cable Transit</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-4.jpg" alt="" />
-                                        </figure>
+                        </a>
+                        <a href="./product-4.php">
+                            <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
+                                <div class="feature-box feature-box-4 equalize xs-equalize-auto">
+                                    <div class="box border-none bg-white box-shadow-large">
+                                        <div class="content">
+                                            <figure>
+                                                <img src="./image/product-4.jpg" alt="" />
+                                            </figure>
+                                        </div>
                                     </div>
                                 </div>
+                                <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Blocks and Plugs</p>
                             </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Block</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-1.jpg" alt="" />
-                                        </figure>
+                        </a>
+                        <a href="./product-5.php">
+                            <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
+                                <div class="feature-box feature-box-4 equalize xs-equalize-auto">
+                                    <div class="box border-none bg-white box-shadow-large">
+                                        <div class="content">
+                                            <figure>
+                                                <img src="./image/product-5.jpg" alt="" />
+                                            </figure>
+                                        </div>
                                     </div>
                                 </div>
+                                <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Sealants and Sprays</p>
                             </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Cast-In</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-2.jpg" alt="" />
-                                        </figure>
+                        </a>
+                        <a href="./product-6.php">
+                            <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
+                                <div class="feature-box feature-box-4 equalize xs-equalize-auto">
+                                    <div class="box border-none bg-white box-shadow-large">
+                                        <div class="content">
+                                            <figure>
+                                                <img src="./image/product-6.jpg" alt="" />
+                                            </figure>
+                                        </div>
                                     </div>
                                 </div>
+                                <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Collars, Wraps and Bandages</p>
                             </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Sleeves</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-3.jpg" alt="" />
-                                        </figure>
+                        </a>
+                        <a href="./product-7.php">
+                            <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
+                                <div class="feature-box feature-box-4 equalize xs-equalize-auto">
+                                    <div class="box border-none bg-white box-shadow-large">
+                                        <div class="content">
+                                            <figure>
+                                                <img src="./image/product-7.jpg" alt="" />
+                                            </figure>
+                                        </div>
                                     </div>
                                 </div>
+                                <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Putties</p>
                             </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Cable Transit</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-4.jpg" alt="" />
-                                        </figure>
+                        </a>
+                        <a href="./product-8.php">
+                            <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
+                                <div class="feature-box feature-box-4 equalize xs-equalize-auto">
+                                    <div class="box border-none bg-white box-shadow-large">
+                                        <div class="content">
+                                            <figure>
+                                                <img src="./image/product-8.jpg" alt="" />
+                                            </figure>
+                                        </div>
                                     </div>
                                 </div>
+                                <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Foams</p>
                             </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Block</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-1.jpg" alt="" />
-                                        </figure>
+                        </a>
+                        <a href="./product-9.php">
+                            <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
+                                <div class="feature-box feature-box-4 equalize xs-equalize-auto">
+                                    <div class="box border-none bg-white box-shadow-large">
+                                        <div class="content">
+                                            <figure>
+                                                <img src="./image/product-9.jpg" alt="" />
+                                            </figure>
+                                        </div>
                                     </div>
                                 </div>
+                                <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Sheets</p>
                             </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Cast-In</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-2.jpg" alt="" />
-                                        </figure>
+                        </a>
+                        <a href="./product-10.php">
+                            <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
+                                <div class="feature-box feature-box-4 equalize xs-equalize-auto">
+                                    <div class="box border-none bg-white box-shadow-large">
+                                        <div class="content">
+                                            <figure>
+                                                <img src="./image/product-10.jpg" alt="" />
+                                            </figure>
+                                        </div>
                                     </div>
                                 </div>
+                                <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Smoke and Acoustic Products</p>
                             </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Sleeves</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-3.jpg" alt="" />
-                                        </figure>
+                        </a>
+                        <a href="./product-11.php">
+                            <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
+                                <div class="feature-box feature-box-4 equalize xs-equalize-auto">
+                                    <div class="box border-none bg-white box-shadow-large">
+                                        <div class="content">
+                                            <figure>
+                                                <img src="./image/product-11.jpg" alt="" />
+                                            </figure>
+                                        </div>
                                     </div>
                                 </div>
+                                <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Coating and Mortars</p>
                             </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Cable Transit</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-4.jpg" alt="" />
-                                        </figure>
+                        </a>
+                        <a href="./product-12.php">
+                            <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
+                                <div class="feature-box feature-box-4 equalize xs-equalize-auto">
+                                    <div class="box border-none bg-white box-shadow-large">
+                                        <div class="content">
+                                            <figure>
+                                                <img src="./image/product-12.jpg" alt="" />
+                                            </figure>
+                                        </div>
                                     </div>
                                 </div>
+                                <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Accessories</p>
                             </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Block</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-1.jpg" alt="" />
-                                        </figure>
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Cast-In</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-2.jpg" alt="" />
-                                        </figure>
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Sleeves</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-3.jpg" alt="" />
-                                        </figure>
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Cable Transit</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-4.jpg" alt="" />
-                                        </figure>
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Block</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-1.jpg" alt="" />
-                                        </figure>
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Cast-In</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-2.jpg" alt="" />
-                                        </figure>
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Sleeves</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-3.jpg" alt="" />
-                                        </figure>
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Cable Transit</p>
-                        </div>
-                        <div class="display-inline-block vertical-align-top width-12 sm-width-20 xs-width-45 text-center padding-5px-lr margin-25px-bottom wow fadeInUp">
-                            <div class="feature-box feature-box-4 equalize xs-equalize-auto">
-                                <div class="box border-none bg-white box-shadow-large">
-                                    <div class="content">
-                                        <figure>
-                                            <img src="./image/product-4.jpg" alt="" />
-                                        </figure>
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="text-small no-margin-bottom width-60 sm-width-100 center-col line-height-18 margin-5px-top">Firestop Block</p>
-                        </div>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -570,135 +511,7 @@
             </div>
         </section>
         <!-- end clients section -->
-        <!-- start portfolio section -->
-        <section class="wow fadeIn no-padding-top">
-            <div class="container-fluid padding-thirteen-lr md-padding-six-lr xs-padding-15px-lr">
-                <div class="row">
-                    <div class="col-md-12 col-sm-12 col-xs-12 no-padding-lr xs-padding-15px-lr">
-                        <div class="filter-content overflow-hidden">
-                            <ul class="portfolio-grid portfolio-metro-grid work-3col hover-option5 gutter-medium">
-                                <li class="grid-sizer"></li>
-                                <!-- start portfolio item -->
-                                <li class="grid-item wow zoomIn">
-                                    <a href="./single-project-page-01.html">
-                                        <figure>
-                                            <div class="portfolio-img"><img src="./images/homepage-4-portfolio2.jpg" alt="" /></div>
-                                            <figcaption>
-                                                <div class="portfolio-hover-main text-center">
-                                                    <div class="portfolio-hover-box vertical-align-middle">
-                                                        <div class="portfolio-hover-content position-relative last-paragraph-no-margin">
-                                                            <span class="font-weight-500 line-height-normal alt-font text-white text-uppercase margin-5px-bottom display-block">Tailoring Interior</span>
-                                                            <p class="text-medium-gray  text-uppercase text-extra-small">Branding and Brochure</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </figcaption>
-                                        </figure>
-                                    </a>
-                                </li>
-                                <!-- end portfolio item -->
-                                <!-- start portfolio item -->
-                                <li class="grid-item wow zoomIn" data-wow-delay="0.2s">
-                                    <a href="./single-project-page-02.html">
-                                        <figure>
-                                            <div class="portfolio-img"><img src="./images/homepage-4-portfolio6.jpg" alt="" /></div>
-                                            <figcaption>
-                                                <div class="portfolio-hover-main text-center">
-                                                    <div class="portfolio-hover-box vertical-align-middle">
-                                                        <div class="portfolio-hover-content position-relative last-paragraph-no-margin">
-                                                            <span class="font-weight-500 line-height-normal alt-font text-white text-uppercase margin-5px-bottom display-block">Educamp School</span>
-                                                            <p class="text-medium-gray text-uppercase text-extra-small">Branding and Identity</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </figcaption>
-                                        </figure>
-                                    </a>
-                                </li>
-                                <!-- end portfolio item -->
-                                <!-- start portfolio item -->
-                                <li class="grid-item grid-item-double wow zoomIn">
-                                    <a href="./single-project-page-03.html">
-                                        <figure>
-                                            <div class="portfolio-img"><img src="./images/homepage-4-portfolio5.jpg" alt="" /></div>
-                                            <figcaption>
-                                                <div class="portfolio-hover-main text-center">
-                                                    <div class="portfolio-hover-box vertical-align-middle">
-                                                        <div class="portfolio-hover-content position-relative last-paragraph-no-margin">
-                                                            <span class="font-weight-500 line-height-normal alt-font text-white text-uppercase margin-5px-bottom display-block">HardDot Stone</span>
-                                                            <p class="text-medium-gray text-uppercase text-extra-small">Branding and Identity</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </figcaption>
-                                        </figure>
-                                    </a>
-                                </li>
-                                <!-- end portfolio item -->
-                                <!-- start portfolio item -->
-                                <li class="grid-item wow zoomIn" data-wow-delay="0.4s">
-                                    <a href="./single-project-page-04.html">
-                                        <figure>
-                                            <div class="portfolio-img"><img src="./images/homepage-4-portfolio3.jpg" alt="" /></div>
-                                            <figcaption>
-                                                <div class="portfolio-hover-main text-center">
-                                                    <div class="portfolio-hover-box vertical-align-middle">
-                                                        <div class="portfolio-hover-content position-relative last-paragraph-no-margin">
-                                                            <span class="font-weight-500 line-height-normal alt-font text-white text-uppercase margin-5px-bottom display-block">Pixflow Studio</span>
-                                                            <p class="text-medium-gray text-uppercase text-extra-small">Branding and Identity</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </figcaption>
-                                        </figure>
-                                    </a>
-                                </li>
-                                <!-- end portfolio item -->
-                                <!-- start portfolio item -->
-                                <li class="grid-item wow zoomIn" data-wow-delay="0.2s">
-                                    <a href="./single-project-page-05.html">
-                                        <figure>
-                                            <div class="portfolio-img"><img src="./images/homepage-4-portfolio1.jpg" alt="" /></div>
-                                            <figcaption>
-                                                <div class="portfolio-hover-main text-center">
-                                                    <div class="portfolio-hover-box vertical-align-middle">
-                                                        <div class="portfolio-hover-content position-relative last-paragraph-no-margin">
-                                                            <span class="font-weight-500 line-height-normal alt-font text-white text-uppercase margin-5px-bottom display-block">Designblast Inc</span>
-                                                            <p class="text-medium-gray text-uppercase text-extra-small">Web and Photography</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </figcaption>
-                                        </figure>
-                                    </a>
-                                </li>
-                                <!-- end portfolio item -->
-                                <!-- start portfolio item -->
-                                <li class="grid-item wow zoomIn">
-                                    <a href="./single-project-page-06.html">
-                                        <figure>
-                                            <div class="portfolio-img"><img src="./images/homepage-4-portfolio4.jpg" alt="" /></div>
-                                            <figcaption>
-                                                <div class="portfolio-hover-main text-center">
-                                                    <div class="portfolio-hover-box vertical-align-middle">
-                                                        <div class="portfolio-hover-content position-relative last-paragraph-no-margin">
-                                                            <span class="font-weight-500 line-height-normal alt-font text-white text-uppercase margin-5px-bottom display-block">Designblast Inc</span>
-                                                            <p class="text-medium-gray text-uppercase text-extra-small">Web and Photography</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </figcaption>
-                                        </figure>
-                                    </a>
-                                </li>
-                                <!-- end portfolio item -->
-                            </ul>
-                        </div>
-                    </div>
-                </div>    
-            </div>
-        </section>
-        <!-- end portfolio section -->
+        
         <!-- start parallax with video section -->
         <!-- <section class="parallax" data-stellar-background-ratio="0.1" style="background-image:url('./images/parallax-bg5.jpg');">
             <div class="opacity-extra-medium bg-black"></div>
@@ -713,7 +526,7 @@
         </section> -->
         <!-- end parallax with video section -->
        <!-- start contact section -->
-        <section class="wow fadeIn">
+        <section class="wow fadeIn" id="contact">
             <div class="container">
                 <div class="row">
                     <!-- start contact block -->
@@ -751,42 +564,9 @@
             </div>
         </section>
         <!-- end contact section -->
-        <!-- start footer --> 
-        <footer class="footer-strip-dark bg-black padding-50px-tb xs-padding-30px-tb">
-            <div class="container">
-                <div class="row equalize xs-equalize-auto">
-                    <!-- start logo -->
-                    <div class="col-md-3 col-sm-3 col-xs-12 display-table sm-text-center xs-margin-20px-bottom">
-                        <div class="display-table-cell vertical-align-middle">
-                            <a href="./index.html"><text class="text-center text-extra-large text-white"> <b class="alt-font">AEGIS FIRE</b> </text></a>
-                        </div>
-                    </div> 
-                    <!-- end logo -->
-                    <!-- start copyright -->
-                    <div class="col-md-6 col-sm-6 col-xs-12 text-center text-small alt-font display-table xs-margin-10px-bottom">
-                        <div class="display-table-cell vertical-align-middle">
-                            &copy; AEGIS FIRE Web, Developed by <a href="#" target="_blank" title="ThemeZaa">Pixiverse</a>.
-                        </div>
-                    </div>
-                    <!-- end copyright -->
-                    <!-- start social media -->
-                    <div class="col-md-3 col-sm-3 col-xs-12 display-table text-right sm-text-center">
-                        <div class="display-table-cell vertical-align-middle">
-                            <div class="social-icon-style-8 display-inline-block vertical-align-middle">
-                                <ul class="small-icon no-margin-bottom">
-                                    <li><a class="facebook text-white" href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a class="twitter text-white" href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a class="google text-white" href="https://plus.google.com" target="_blank"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a class="instagram text-white" href="https://instagram.com/" target="_blank"><i class="fa fa-instagram no-margin-right" aria-hidden="true"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- end social media -->
-                </div>
-            </div>
-        </footer>
-        <!-- end footer -->
+        <?php
+            include('footer.php');
+        ?>
         <!-- start scroll to top -->
         <a class="scroll-top-arrow" href="javascript:void(0);"><i class="ti-arrow-up"></i></a>
         <!-- end scroll to top  -->
