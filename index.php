@@ -73,7 +73,7 @@
                                 <ul id="accordion" class="nav navbar-nav navbar-center alt-font text-extra-large" data-in="fadeIn" data-out="fadeOut">
                                     <!-- start menu item -->
                                     <li class="dropdown megamenu-fw">
-                                        <a href="./index.html">Home</a><i class="fa fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
+                                        <a href="./index.php">Home</a><i class="fa fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                                     </li>
                                     <!-- end menu item -->
                                      <!-- start menu item -->

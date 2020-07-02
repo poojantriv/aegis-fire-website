@@ -4,7 +4,7 @@
         <div class="container-fluid padding-thirteen-lr md-padding-eight-lr sm-padding-15px-lr nav-header-container">
             <div class="row">
                 <div class="col-md-2 col-xs-5">
-                    <a href="./index.html" title="Pofo" class="logo">
+                    <a href="./index.php" title="Pofo" class="logo">
                         <!-- <img src="./images/logo.png" data-at2x="images/logo@2x.png" class="logo-dark" alt="Pofo" />
                         <img src="./images/logo-white.png" data-at2x="images/logo-white@2x.png" alt="Pofo" class="logo-light default" /> -->
                         <text class="text-center text-extra-large text-white"> <b class="alt-font">AEGIS FIRE</b> </text>
