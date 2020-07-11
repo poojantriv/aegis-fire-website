@@ -116,7 +116,6 @@
                                     <!-- start menu item -->
                                     <li class="dropdown megamenu-fw">
                                         <a href="#contact" class="inner-link">Contact Us</a><i class="fa fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
-                                    
                                     </li>
                                     <!-- end menu item -->
                                 </ul>
@@ -220,7 +219,8 @@
         </section>
         <!-- end section -->
         <!-- start feature box section -->
-        <section id="about" class="wow fadeIn bg-dark-gray">
+         <section class=" wow fadeIn parallax xs-background-image-center padding-nineteen-bottom xs-padding-50px-bottom" data-stellar-background-ratio="0.5" style="background-image:url('./image/home_cover.jpg');">
+            <div class="opacity-medium bg-black"></div>
             <div class="container-fluid padding-thirteen-lr md-padding-six-lr xs-padding-15px-lr">
                 <div class="row equalize sm-equalize-auto">
                     <!-- start section title -->
@@ -230,7 +230,8 @@
                             <span class="text-small text-uppercase text-white opacity7 font-weight-500 letter-spacing-1 alt-font margin-10px-bottom sm-margin-5px-bottom display-block">Technology Expert analysis</span>
                             <h4 class="text-white font-weight-300 alt-font width-100">Passive and Active Fire Protection: Striking a Balance</h4>
                             <!-- end section title -->
-                            <p class="width-80 text-white md-width-90 sm-width-100">In the event of a fire, good building design and maintenance is essential to aid the safe evacuation of occupants, minimise the spread and provide acceptable safety conditions for rescue teams. Time is critical: the best fire protection solutions consider the specific design of individual buildings and how they are used by occupiers, combining both active and passive measures in a holistic approach.</p>
+                            <!-- <p class="width-80 text-white md-width-90 sm-width-100">In the event of a fire, good building design and maintenance is essential to aid the safe evacuation of occupants, minimise the spread and provide acceptable safety conditions for rescue teams. Time is critical: the best fire protection solutions consider the specific design of individual buildings and how they are used by occupiers, combining both active and passive measures in a holistic approach.</p> -->
+                            <p class="width-80 text-white md-width-90 sm-width-100">AEGIS FIRE SOLUTIONS  is well established within Passive Fire Protection industry. We can offer the most reliable service within the India , tailored to every clients needs. We will always offer cost saving alternatives without compromising specifications. We are a fully accredited company working to improve standards & quality within the Fire Protection industry.</p>
                             <a href="./about-us-modern.html" class="btn btn-black margin-35px-top btn-small sm-margin-25px-top">Company History</a>
                         </div>
                     </div>
@@ -479,7 +480,7 @@
         <!-- end layout section -->
 
         <!-- start services section -->
-        <section class=" wow fadeIn parallax xs-background-image-center padding-nineteen-bottom xs-padding-50px-bottom" data-stellar-background-ratio="0.5" style="background-image:url('./images/homepage-9-parallax-img5.jpg');">
+        <section class=" wow fadeIn parallax xs-background-image-center padding-nineteen-bottom xs-padding-50px-bottom" data-stellar-background-ratio="0.5" style="background-image:url('./image/home_cover.jpg');">
             <div class="opacity-extra-medium bg-black"></div>
             <div class="container-fluid padding-thirteen-lr md-padding-six-lr position-relative xs-padding-15px-lr">
                 <div class="row">
@@ -497,15 +498,22 @@
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="bg-medium-light-gray gridblock-main pull-left width-100">
                             <ul class="gridblock-list no-margin no-padding">
-                                <li class="margin-ten-bottom sm-margin-six-bottom xs-margin-10px-bottom"><a href="https://envato.com" target="_blank"><img src="./images/logo-1.png" alt="" /></a></li>
-                                <li class="margin-ten-bottom sm-margin-six-bottom xs-margin-10px-bottom"><a href="https://woocommerce.com" target="_blank"><img src="./images/logo-2.png" alt="" /></a></li>
-                                <li class="margin-ten-bottom sm-margin-six-bottom xs-margin-10px-bottom"><a href="https://wordpress.com" target="_blank"><img src="./images/logo-3.png" alt="" /></a></li>
-                                <li class="margin-ten-bottom sm-margin-six-bottom xs-margin-10px-bottom"><a href="https://magento.com" target="_blank"><img src="./images/logo-4.png" alt="" /></a></li>
-                                <li class="margin-ten-bottom sm-margin-six-bottom xs-margin-10px-bottom"><a href="http://sass-lang.com/" target="_blank"><img src="./images/logo-5.png" alt="" /></a></li>
-                                <li class="margin-ten-bottom sm-margin-six-bottom xs-margin-10px-bottom"><a href="https://www.pingdom.com" target="_blank"><img src="./images/logo-6.png" alt="" /></a></li>
-                                <li class="xs-margin-10px-bottom"><a href="http://lesscss.org/" target="_blank"><img src="./images/logo-7.png" alt="" /></a></li>
-                                <li class="xs-margin-10px-bottom"><a href="https://jquery.com/" target="_blank"><img src="./images/logo-8.png" alt="" /></a></li>
-                                <li><a href="https://google.com/" target="_blank"><img src="./images/logo-17.png" alt="" /></a></li>
+                                <li class="margin-five-bottom sm-margin-six-bottom xs-margin-10px-bottom">
+                                    <img src="./image/client-1.jpg" class="height-200px padding-two-bottom" alt="" />
+                                    <p class="text-black alt-font font-weight-700"> Statue of Liberty </p>
+                                </li>
+                                <li class="margin-five-bottom sm-margin-six-bottom xs-margin-10px-bottom">
+                                    <img src="./image/client-3.jpg" class="height-200px padding-two-bottom" alt="" />
+                                    <p class="text-black alt-font font-weight-700"> Prestige Tower - GIFT </p>
+                                </li>
+                                <li class="margin-five-bottom sm-margin-six-bottom xs-margin-10px-bottom">
+                                    <img src="./image/client-2.jpg" class="height-200px padding-two-bottom" alt="" />
+                                    <p class="text-black alt-font font-weight-700"> Surat Diamond Bourse </p>
+                                </li>
+                                <li class="sm-margin-six-bottom xs-margin-10px-bottom">
+                                    <img src="./image/client-4.jpg" class="height-200px padding-two-bottom" alt="" />
+                                    <p class="text-black alt-font font-weight-700"> Adani Wilmar </p>
+                                </li>
                             </ul>
                         </div>
                     </div>
@@ -527,9 +535,36 @@
             </div>
         </section> -->
         <!-- end parallax with video section -->
+
+        <section class="big-section wow fadeIn bg-black" id="about">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-6 col-md-10 col-sm-10 col-xs-12 center-col text-left">
+                        <div class="alt-font margin-20px-bottom sm-margin-20px-bottom text-uppercase text-extra-small letter-spacing-2 text-deep-pink">About Firestop</div>
+                        <h6 class="alt-font font-weight-500 text-white no-margin-bottom text-align-left">
+                        Firestop is legally required in all countries, it is mandated by codes and national laws.
+                        It is a mandatory application – everywhere.
+                        Because of its importance, Firestop products have to be tested according to an official so called fire test standard. 
+                        Most common test standards in the world are : 
+                        <br>
+                            <br> In India : IS 12458
+                            <br> In the USA: ASTM E 814 / UL 1479 
+                            <br> In Europe: EN 1366-3 & BS 
+                        </h6>
+                    </div>
+                </div>
+            </div>
+        </section>
+
        <!-- start contact section -->
-        <section class="wow fadeIn" id="contact">
+        <section class="wow fadeIn" id="contact" style="background: url(./image/testimonial-bg.png)">
             <div class="container">
+
+                <div class="row">
+                    <div class="col-md-6 col-sm-8 col-xs-12 text-center center-col margin-60px-bottom sm-margin-30px-bottom">
+                        <h4 class="text-extra-dark-gray alt-font font-weight-300 xs-margin-5px-bottom"><strong>Call</strong> Us <br> Or Drop an <strong>EMAIL</strong></h4>
+                    </div>
+                </div>
                 <div class="row">
                     <!-- start contact block -->
                     <div class="col-md-4 col-sm-4 col-xs-12 text-center last-paragraph-no-margin sm-margin-30px-bottom wow fadeInUp">
@@ -537,31 +572,42 @@
                             <i class="fa fa-address-card-o  text-extra-dark-gray icon-extra-medium margin-20px-bottom sm-margin-15px-bottom"></i>
 
                             <div class="text-extra-dark-gray alt-font font-weight-500 text-uppercase">Address</div>
-                            <p>401 Broadway, 24th Floor<br />Iceland, Iceland 10013.</p>
-                            <p><strong>P:</strong> + 1-800-222-000<br /><strong>E:</strong> <a href="mailto:info@domain.com">info@domain.com</a></p>
+                            <p> AEGIS FIRE SOLUTIONS <br> 307 , Sukan Mall, Near Visat circle, Sabarmati - Gandhinagar Highway, Chandkheda ,Ahmedabad – 380005 </p>
                         </div>
                     </div>
                     <!-- end contact block -->
                     <!-- start contact block -->
                     <div class="col-md-4 col-sm-4 col-xs-12 text-center last-paragraph-no-margin sm-margin-30px-bottom wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="padding-60px-all border-all border-width-1 border-color-medium-gray sm-padding-20px-all xs-padding-30px-all">
-                            <i class="fa fa-envelope  text-extra-dark-gray icon-extra-medium margin-20px-bottom sm-margin-15px-bottom"></i>
-                            <div class="text-extra-dark-gray alt-font font-weight-500 text-uppercase">Email</div>
-                            <p>West 14th North Street,<br />Suite 21, Netherlands</p>
-                            <p><strong>P:</strong> + 1-800-222-000<br /><strong>E:</strong> <a href="mailto:info@domain.com">info@domain.com</a></p>
+                        <div class="padding-30px-all border-all border-width-1 border-color-medium-gray sm-padding-20px-all xs-padding-30px-all">
+                            <i class="fa fa-mobile text-extra-dark-gray icon-extra-medium margin-20px-bottom sm-margin-15px-bottom"></i>
+                            <div class="text-extra-dark-gray alt-font font-weight-500 text-uppercase">PHONE</div>
+                            <p>  Krunal Chauhan, Director <br>
+                                <a href="tel:+919909993252">+91-9909993252</a><br>
+                            </p>
+                        </div>
+                        <br>
+                        <div class="padding-20px-all border-all border-width-1 border-color-medium-gray sm-padding-20px-all xs-padding-30px-all">
+                            <div class="text-extra-dark-gray alt-font font-weight-500 text-uppercase">GST IN</div>
+                            <p>24AUPPC4482R1ZY 
+                            </p>
                         </div>
                     </div>
                     <!-- end contact block -->
                     <!-- start contact block -->
                     <div class="col-md-4 col-sm-4 col-xs-12 text-center last-paragraph-no-margin wow fadeInUp" data-wow-delay="0.4s">
+                    
                         <div class="padding-60px-all border-all border-width-1 border-color-medium-gray sm-padding-20px-all xs-padding-30px-all">
-                            <i class="fa fa-mobile text-extra-dark-gray icon-extra-medium margin-20px-bottom sm-margin-15px-bottom"></i>
-                            <div class="text-extra-dark-gray alt-font font-weight-500 text-uppercase">P</div>
-                            <p>Maria Reichenbach,<br />Zürich 8022, Switzerland</p>
-                            <p><strong>P:</strong> + 1-800-222-000<br /><strong>E:</strong> <a href="mailto:info@domain.com">info@domain.com</a></p>
+                            <i class="fa fa-envelope  text-extra-dark-gray icon-extra-medium margin-20px-bottom sm-margin-15px-bottom"></i>
+                            <div class="text-extra-dark-gray alt-font font-weight-500 text-uppercase">Email</div>
+                            <p><a href="mailto:krunal@aegisfire.in">krunal@aegisfire.in</a><br>
+                                <a href="mailto:account@aegisfire.in">account@aegisfire.in</a><br>
+                                <a href="mailto:sales@aegisfire.in">sales@aegisfire.in</a><br> 
+                                <a href="mailto:info@aegisfire.in">info@aegisfire.in</a>
+                            </p>
                         </div>
                     </div>
                     <!-- end contact block -->
+                    
                 </div>
             </div>
         </section>
